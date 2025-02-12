@@ -1,0 +1,18 @@
+<RCC>
+  <qresource>
+    <file>tupian/qianbi1.gif</file>
+    <file>tupian/qianbi2.gif</file>
+    <file>tupian/qianbi3.gif</file>
+    <file>tupian/包.png</file>
+    <file>tupian/包1.png</file>
+    <file>tupian/包2.png</file>
+    <file>tupian/锤子.png</file>
+    <file>tupian/锤子1.png</file>
+    <file>tupian/锤子2.png</file>
+    <file>tupian/剪子.png</file>
+    <file>tupian/剪子1.png</file>
+    <file>tupian/剪子2.png</file>
+    <file>tupian/猫1.png</file>
+    <file>tupian/猫2.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,36 @@
+<RCC>
+  <qresource>
+    <file>tu/a.png</file>
+    <file>tu/b.png</file>
+    <file>tu/f1.png</file>
+    <file>tu/f2.png</file>
+    <file>tu/f3.png</file>
+    <file>tu/f4.png</file>
+    <file>tu/f5.png</file>
+    <file>tu/f6.png</file>
+    <file>tu/f7.png</file>
+    <file>tu/f8.png</file>
+    <file>tu/fan_off.png</file>
+    <file>tu/fan_on.gif</file>
+    <file>tu/fan00.png</file>
+    <file>tu/fan01.png</file>
+    <file>tu/fan02.png</file>
+    <file>tu/fan03.png</file>
+    <file>tu/fan04.png</file>
+    <file>tu/fan05.png</file>
+    <file>tu/lamp_off.png</file>
+    <file>tu/lamp_on.png</file>
+    <file>tu/pic_alarm_off.png</file>
+    <file>tu/pic_alarm_on.png</file>
+    <file>tu/pic_cartoon_fan_1.png</file>
+    <file>tu/pic_cartoon_fan_2.png</file>
+    <file>tu/pic_cartoon_fan_3.png</file>
+    <file>tu/pic_cartoon_fan_4.png</file>
+    <file>tu/pic_cartoon_fan_5.png</file>
+    <file>tu/timg.png</file>
+    <file>tu/timg1.png</file>
+    <file>tu/timg2.png</file>
+    <file>tu/timg3.png</file>
+    <file>tu/timg4.png</file>
+  </qresource>
+</RCC>
